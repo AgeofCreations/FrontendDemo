@@ -1,10 +1,10 @@
 Шаг 1:
-Создаёшь папки с frontend и backend в project_root
+Создаёшь папку backend в project_root
 
 Шаг 2:
 Из папки frontend выполняешь 
 ```bash
-vue create <имя проекта>
+vue create frontend
 ```
 Шаг 3: 
 Создать в корне frontend файл vue.config.js с содержимым:
